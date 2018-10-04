@@ -1,2 +1,0 @@
-This is file1
-The file1 is edited from another team and saved into remote repo as version 2.
