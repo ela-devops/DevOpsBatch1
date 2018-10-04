@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is file1.
 now file1 is  updated by database team.
+=======
+this is file1
+now this file1 is updated by team1.
+>>>>>>> b39e6f32d1fa707b2bbd3392103aa24be31dae42
