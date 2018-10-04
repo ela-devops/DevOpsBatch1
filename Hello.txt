@@ -1,1 +1,2 @@
 Welcome to DevOps GIT Class.....V1
+now updated by master.
