@@ -1,1 +1,2 @@
 Welcome to DevOps GIT Class.....V1
+this hello.txt is updated from child branch.
